@@ -6,6 +6,10 @@ navigate there in the current tab. Inspired by the workflow of
 [Explorer Dialog Path Selector](https://github.com/ThioJoe/ThioJoe-AHK-Scripts).
 This is an independent implementation, with no AutoHotkey dependency.
 
+This plugin pairs well with these projects:
+- [xdg-desktop-portal-termfilechooser](https://github.com/hunkyburrito/xdg-desktop-portal-termfilechooser)
+- [org.freedesktop.FileManager1.common](https://github.com/boydaihungst/org.freedesktop.FileManager1.common)
+
 ## Requirements
 - [yazi](https://github.com/sxyazi/yaji)
 
