@@ -39,7 +39,7 @@ desc = "Copy a path open in another Yazi"
 ```
 
 Press `g o`. Choose a path with `1`–`9`; `n` and `p` change pages,
-and Escape cancels. `g p` opens the same picker and copies the selected path to
+and Escape cancels. `g c` opens the same picker and copies the selected path to
 the system clipboard instead, using Yazi's clipboard support.
 
 ### Feasibility and limits
